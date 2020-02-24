@@ -20,7 +20,7 @@ Available connections:
 - iDrac
 - IMM
 
-For SSH connections, if you prefer to use a local putty, you only need to add the executable in the path /AppData/PuTTy/putty.exe
+For SSH connections, if you prefer to use a local putty, you only need to add the executable in the path \AppData\PuTTy\putty.exe
 
 Add your servers:
 
