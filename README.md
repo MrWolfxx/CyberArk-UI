@@ -1,7 +1,7 @@
 # CyberArk-UI
 ## Application to connect to your systems through CyberArk
 
-Connect to your different systems more easily. The application is multi-user and can be run from a network share.
+Connect to your different systems more easily. Application is multi-user and can be run from a network share.
 
 Authentication types:
 
